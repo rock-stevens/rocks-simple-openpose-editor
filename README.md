@@ -40,7 +40,7 @@ Here's a Screenshot of the editor.<br>
 
 | Step | Action |
 | --- | --- |
-| **1\. Open the Editor** | [Launch](https://raw.githubusercontent.com/rock-stevens/rocks-simple-openpose-editor/refs/heads/main/rkopenpose.html) Rock’s Simple OpenPose Editor. |
+| **1\. Open the Editor** | [Launch](www.rockstevens.com/rkopenpose.html) Rock’s Simple OpenPose Editor. |
 | **2\. Set Canvas Size** | Choose a canvas size like \`512 x 512\`.  <br>The selected size should match the size you plan to use as your output image in Stable Diffusion. |
 | **3\. Load a Starting Pose (Optional)** | Select a built-in pose from the dropdown (e.g., \`Normal Facing Pose\`, will load on start up).  <br>Click 'Load Preset' to load it into the canvas. |
 | **4\. Edit the Pose** | Drag the colored 'joints (dots)' to change the pose.  <br>The 'limbs (lines)' will follow automatically.  <br>Use the 'Shift Control Arrow Buttons' to move the entire pose on the canvas if needed. |
@@ -72,7 +72,7 @@ Here's a Screenshot of the editor.<br>
 
 ## Try out Rock's Simple OpenPose Editor
 
-Click on this link [Rock's Simple OpenPose Editor](https://raw.githubusercontent.com/rock-stevens/rocks-simple-openpose-editor/refs/heads/main/rkopenpose.html)  
+Click on this link [Rock's Simple OpenPose Editor](www.rockstevens.com/rkopenpose.html)  
 Note: Opens in new window. But then, you can save it and use it offline :)
 
 ----  
